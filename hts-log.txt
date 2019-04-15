@@ -1,0 +1,49 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 14 Mar 2019 03:23:47 at https://preview.themeforest.net/item/smarthr-bootstrap-admin-panel-template/full_screen_preview/21153150?_ga=2.198023082.409208515.1551843542-48495272.1551843542 +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qYC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" -Y https://preview.themeforest.net/item/smarthr-bootstrap-admin-panel-template/full_screen_preview/21153150?_ga=2.198023082.409208515.1551843542-48495272.1551843542 -O1 "C:\My Web Sites\SmartHR2" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+03:23:58	Warning: 	Note: due to s3.envato.com remote robots.txt rules, links beginning with these path will be forbidden: / (see in the options to disable this)
+03:23:58	Error: 	"Forbidden" (403) at link s3.envato.com/ (from https://preview.themeforest.net/item/smarthr-bootstrap-admin-panel-template/full_screen_preview/21153150?_ga=2.198023082.409208515.1551843542-48495272.1551843542)
+03:24:08	Error: 	"Gone" (410) at link https://preview.themeforest.net/item/smarthr-bootstrap-admin-panel-template/full_screen_preview/linkid.js (from https://preview.themeforest.net/item/smarthr-bootstrap-admin-panel-template/full_screen_preview/21153150?_ga=2.198023082.409208515.1551843542-48495272.1551843542)
+03:24:08	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://preview.themeforest.net/item/smarthr-bootstrap-admin-panel-template/full_screen_preview/21153150?_ga=2.198023082.409208515.1551843542-48495272.1551843542)
+03:24:27	Error: 	"Not Found" (404) at link https://themeforest.net/item/smarthr-bootstrap-admin-panel-template/linkid.js (from https://themeforest.net/item/smarthr-bootstrap-admin-panel-template/21153150)
+03:24:36	Error: 	"Forbidden" (403) at link https://public-assets.envato-static.com/assets/market/pages/images/down.png (from https://public-assets.envato-static.com/assets/market/pages/default/index-72800f7f30bd477398be4c01fcc6b0d6eba09e93a76642467499c8788856045c.css)
+03:24:37	Error: 	"Not Found" (404) at link https://themeforest.net/item/smarthr-bootstrap-admin-panel-template/reviews/linkid.js (from https://themeforest.net/item/smarthr-bootstrap-admin-panel-template/reviews/21153150)
+03:24:37	Error: 	"Not Found" (404) at link https://themeforest.net/item/smarthr-bootstrap-admin-panel-template/21153150/linkid.js (from https://themeforest.net/item/smarthr-bootstrap-admin-panel-template/21153150/comments)
+03:30:52	Warning: 	File not parsed, looks like binary: https://dreamguys.co.in/smarthr/assets/fonts/line-awesome.woff2?v=1.1.
+03:30:53	Error: 	"Not Found" (404) at link https://dreamguys.co.in/smarthr/assets/css/owl.video.play.png (from https://dreamguys.co.in/smarthr/assets/css/owl.carousel.min.css)
+03:30:53	Warning: 	File not parsed, looks like binary: https://dreamguys.co.in/smarthr/light/assets/fonts/glyphicons-halflings-regular.woff2
+03:30:53	Warning: 	File not parsed, looks like binary: https://dreamguys.co.in/smarthr/light/assets/fonts/fontawesome-webfont.woff2?v=4.7.0
+03:30:54	Warning: 	File not parsed, looks like binary: https://dreamguys.co.in/smarthr/light/assets/fonts/line-awesome.woff2?v=1.1.
+03:31:01	Error: 	"Not Found" (404) at link https://dreamguys.co.in/smarthr/light/assets/js/jquery-ui.min.js (from https://dreamguys.co.in/smarthr/light/events.html)
+03:31:01	Warning: 	File not parsed, looks like binary: https://dreamguys.co.in/smarthr/dark/assets/fonts/glyphicons-halflings-regular.woff2
+03:31:01	Warning: 	File not parsed, looks like binary: https://dreamguys.co.in/smarthr/dark/assets/fonts/fontawesome-webfont.woff2?v=4.7.0
+03:31:01	Warning: 	File not parsed, looks like binary: https://dreamguys.co.in/smarthr/dark/assets/fonts/line-awesome.woff2?v=1.1.
+03:31:10	Error: 	"Not Found" (404) at link https://dreamguys.co.in/smarthr/dark/assets/js/jquery-ui.min.js (from https://dreamguys.co.in/smarthr/dark/events.html)
+03:31:10	Warning: 	File not parsed, looks like binary: https://dreamguys.co.in/smarthr/blue/assets/fonts/glyphicons-halflings-regular.woff2
+03:31:10	Warning: 	File not parsed, looks like binary: https://dreamguys.co.in/smarthr/blue/assets/fonts/fontawesome-webfont.woff2?v=4.7.0
+03:31:10	Warning: 	File not parsed, looks like binary: https://dreamguys.co.in/smarthr/blue/assets/fonts/line-awesome.woff2?v=1.1.
+03:31:18	Error: 	"Not Found" (404) at link https://dreamguys.co.in/smarthr/blue/assets/js/jquery-ui.min.js (from https://dreamguys.co.in/smarthr/blue/events.html)
+03:31:18	Warning: 	File not parsed, looks like binary: https://dreamguys.co.in/smarthr/maroon/assets/fonts/glyphicons-halflings-regular.woff2
+03:31:18	Warning: 	File not parsed, looks like binary: https://dreamguys.co.in/smarthr/maroon/assets/fonts/fontawesome-webfont.woff2?v=4.7.0
+03:31:19	Warning: 	File not parsed, looks like binary: https://dreamguys.co.in/smarthr/maroon/assets/fonts/line-awesome.woff2?v=1.1.
+03:31:27	Error: 	"Not Found" (404) at link https://dreamguys.co.in/smarthr/maroon/assets/js/jquery-ui.min.js (from https://dreamguys.co.in/smarthr/maroon/events.html)
+03:31:27	Warning: 	File not parsed, looks like binary: https://dreamguys.co.in/smarthr/orange/assets/fonts/glyphicons-halflings-regular.woff2
+03:31:27	Warning: 	File not parsed, looks like binary: https://dreamguys.co.in/smarthr/orange/assets/fonts/fontawesome-webfont.woff2?v=4.7.0
+03:31:27	Warning: 	File not parsed, looks like binary: https://dreamguys.co.in/smarthr/orange/assets/fonts/line-awesome.woff2?v=1.1.
+03:31:30	Error: 	"Not Found" (404) at link https://dreamguys.co.in/smarthr/orange/assets/js/jquery-ui.min.js (from https://dreamguys.co.in/smarthr/orange/events.html)
+03:31:30	Warning: 	File not parsed, looks like binary: https://dreamguys.co.in/smarthr/purple/assets/fonts/glyphicons-halflings-regular.woff2
+03:31:30	Warning: 	File not parsed, looks like binary: https://dreamguys.co.in/smarthr/purple/assets/fonts/fontawesome-webfont.woff2?v=4.7.0
+03:31:31	Warning: 	File not parsed, looks like binary: https://dreamguys.co.in/smarthr/purple/assets/fonts/line-awesome.woff2?v=1.1.
+03:31:40	Error: 	"Not Found" (404) at link https://dreamguys.co.in/smarthr/purple/assets/js/jquery-ui.min.js (from https://dreamguys.co.in/smarthr/purple/events.html)
+03:31:40	Warning: 	File not parsed, looks like binary: https://dreamguys.co.in/smarthr/rtl/assets/fonts/glyphicons-halflings-regular.woff2
+03:31:40	Warning: 	File not parsed, looks like binary: https://dreamguys.co.in/smarthr/rtl/assets/fonts/fontawesome-webfont.woff2?v=4.7.0
+03:31:40	Warning: 	File not parsed, looks like binary: https://dreamguys.co.in/smarthr/rtl/assets/fonts/line-awesome.woff2?v=1.1.
+03:31:42	Error: 	"Not Found" (404) at link https://dreamguys.co.in/smarthr/rtl/assets/js/jquery-ui.min.js (from https://dreamguys.co.in/smarthr/rtl/events.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 7 minutes 55 seconds : 1026 links scanned, 1007 files written (47738948 bytes overall), 689 files updated [6907345 bytes received at 14541 bytes/sec], 24949839 bytes transferred using HTTP compression in 691 files, ratio 18%, 4.7 requests per connection
+(15 errors, 23 warnings, 0 messages)
